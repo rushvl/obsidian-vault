@@ -1,0 +1,1 @@
+* When passing a string to a function, **pass the address of the string(by reference)** to save the copying time.

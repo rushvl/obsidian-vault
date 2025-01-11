@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "419d52f0892ed1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f66627961fa54a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56a66cf5f5adbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursework I should probably get to.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coursework I should probably get to"
+            }
+          },
+          {
+            "id": "5131d25a7b1688c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6084a14d7275836",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1add3ca3590822d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f037049dc2711cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37969534e5ae36bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3148cf920acf5f42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8511c9c289a3ab29",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e519ab8bb247988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeaa56a82e05bc31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Binary Search"
+            }
+          },
+          {
+            "id": "ca08cc4a06c46922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Binary Search"
+            }
+          },
+          {
+            "id": "aa9beba507f22aeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53d56876ff6912a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Binary Search.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Binary Search"
+            }
+          },
+          {
+            "id": "e61ee01fd2d70053",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6f037049dc2711cc",
+  "lastOpenFiles": [
+    "Studies/Sociology of Economic Development",
+    "Studies",
+    "Acheivements/Society Form.md",
+    "Acheivements/Web Secretary.md",
+    "Acheivements/Kodein Blog Adaptive AI.md",
+    "Recipies!!!/Chocolate Pudding.md",
+    "Acheivements",
+    "DSA/Graphs.md",
+    "DSA/Bit Manipulation.md",
+    "DSA/Binary Search.md",
+    "DSA/Backtracking.md",
+    "Coursework I should probably get to.md",
+    "Recipies!!!",
+    "DSA/Tidbits.md",
+    "DSA/Untitled.canvas",
+    "Projects/Devlog- Implementing TCP.md",
+    "Projects",
+    "DSA",
+    "2024-12-02.md"
+  ]
+}
