@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Binary Search"
             }
+          },
+          {
+            "id": "29c6ee8e4769b220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Bit Manipulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bit Manipulation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,8 +203,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e61ee01fd2d70053",
+  "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
+    "DSA/Binary Search.md",
+    "DSA/Backtracking.md",
+    "DSA/Bit Manipulation.md",
+    "DSA/Sieve.md",
+    "Templates/class.template.md",
+    "Templates/algorithm.template.md",
+    "Templates",
+    "DSA/Graphs.md",
     "Studies/Sociology of Economic Development",
     "Studies",
     "Acheivements/Society Form.md",
@@ -198,10 +220,6 @@
     "Acheivements/Kodein Blog Adaptive AI.md",
     "Recipies!!!/Chocolate Pudding.md",
     "Acheivements",
-    "DSA/Graphs.md",
-    "DSA/Bit Manipulation.md",
-    "DSA/Binary Search.md",
-    "DSA/Backtracking.md",
     "Coursework I should probably get to.md",
     "Recipies!!!",
     "DSA/Tidbits.md",
