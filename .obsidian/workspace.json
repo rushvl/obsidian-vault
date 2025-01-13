@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e56a66cf5f5adbe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursework I should probably get to.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coursework I should probably get to"
-            }
-          },
-          {
-            "id": "5131d25a7b1688c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Binary Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary Search"
-            }
-          },
-          {
             "id": "29c6ee8e4769b220",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DSA/Bit Manipulation.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Templates/lab.template.md",
+                "bFile": "Templates/lab.template.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Bit Manipulation"
+              "icon": "diff",
+              "title": "Diff: lab.template"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,11 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/Binary Search.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Binary Search"
+              "title": "Outline"
             }
           },
           {
@@ -189,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +172,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e61ee01fd2d70053",
+  "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
     "README.md",
+    "Studies/Sociology of Economic Development/L3.md",
+    "Studies/Sociology of Economic Development/ABC.md",
+    "Templates/lab.template.md",
+    "DSA/Bit Manipulation.md",
     "DSA/Binary Search.md",
     "DSA/Backtracking.md",
-    "DSA/Bit Manipulation.md",
     "DSA/Sieve.md",
     "Templates/class.template.md",
     "Templates/algorithm.template.md",
