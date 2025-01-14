@@ -11,14 +11,14 @@
             "id": "29c6ee8e4769b220",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Templates/lab.template.md",
-                "bFile": "Templates/lab.template.md",
-                "aRef": ""
+                "file": "Studies/Sociology of Economic Development/L4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: lab.template"
+              "icon": "lucide-file",
+              "title": "L4"
             }
           }
         ]
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Studies/Sociology of Economic Development/L4.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of L4"
             }
           },
           {
@@ -174,13 +176,14 @@
   },
   "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
-    "README.md",
     "Studies/Sociology of Economic Development/L3.md",
+    "Studies/Sociology of Economic Development/L4.md",
+    "DSA/Backtracking.md",
+    "README.md",
     "Studies/Sociology of Economic Development/ABC.md",
     "Templates/lab.template.md",
     "DSA/Bit Manipulation.md",
     "DSA/Binary Search.md",
-    "DSA/Backtracking.md",
     "DSA/Sieve.md",
     "Templates/class.template.md",
     "Templates/algorithm.template.md",
