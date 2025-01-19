@@ -1,5 +1,5 @@
 ## Algorithm
-```
+```cpp
 int lo = 0, hi = n-1;
 int mid;
 while(hi-lo>1) {

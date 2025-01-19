@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Sociology of Economic Development/L4.md",
+                "file": "DSA/Sieve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4"
+              "title": "Sieve"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8511c9c289a3ab29",
@@ -171,34 +171,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
-    "Studies/Sociology of Economic Development/L3.md",
-    "Studies/Sociology of Economic Development/L4.md",
+    "DSA/Graphs.md",
+    "DSA/Tidbits.md",
+    "DSA/Sieve.md",
     "DSA/Backtracking.md",
+    "DSA/Binary Search.md",
+    "DSA/Bit Manipulation.md",
+    "Projects/CJBS - Satellite GPT.md",
+    "Coursework I should probably get to.md",
+    "Projects/CJBS - Satellite GPT",
+    "Studies/Sociology of Economic Development/L4.md",
+    "Studies/Sociology of Economic Development/L3.md",
+    "Acheivements/Web Secretary.md",
+    "Studies/Sociology of Economic Development/social change and development.pdf",
+    "Studies/Sociology of Economic Development/modernization theory.pdf",
     "README.md",
     "Studies/Sociology of Economic Development/ABC.md",
     "Templates/lab.template.md",
-    "DSA/Bit Manipulation.md",
-    "DSA/Binary Search.md",
-    "DSA/Sieve.md",
     "Templates/class.template.md",
     "Templates/algorithm.template.md",
     "Templates",
-    "DSA/Graphs.md",
     "Studies/Sociology of Economic Development",
     "Studies",
     "Acheivements/Society Form.md",
-    "Acheivements/Web Secretary.md",
     "Acheivements/Kodein Blog Adaptive AI.md",
     "Recipies!!!/Chocolate Pudding.md",
     "Acheivements",
-    "Coursework I should probably get to.md",
     "Recipies!!!",
-    "DSA/Tidbits.md",
     "DSA/Untitled.canvas",
     "Projects/Devlog- Implementing TCP.md",
     "Projects",
