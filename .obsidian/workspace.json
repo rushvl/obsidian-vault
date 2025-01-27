@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Sociology of Economic Development/L6.md",
+                "file": "Studies/Sociology of Economic Development/L7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6"
+              "title": "L7"
             }
           },
           {
@@ -221,19 +221,20 @@
   },
   "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
-    "Studies/Sociology of Economic Development/L4.md",
-    "Studies/Sociology of Economic Development/social change and development.pdf",
     "Studies/Sociology of Economic Development/L6.md",
+    "Studies/Sociology of Economic Development/L7.md",
     "Studies/Sociology of Economic Development/L5.md",
+    "Studies/Sociology of Economic Development/L4.md",
     "Studies/Sociology of Economic Development/L3.md",
+    "Studies/DSA/Bit Manipulation.md",
+    "Studies/DSA/Backtracking.md",
+    "Studies/DSA/Binary Search.md",
+    "Studies/DSA/Sieve.md",
+    "Studies/Sociology of Economic Development/social change and development.pdf",
     "Coursework I should probably get to.md",
     "README.md",
-    "DSA/Sieve.md",
-    "DSA/Graphs.md",
-    "DSA/Tidbits.md",
-    "DSA/Backtracking.md",
-    "DSA/Binary Search.md",
-    "DSA/Bit Manipulation.md",
+    "Studies/DSA/Graphs.md",
+    "Studies/DSA/Tidbits.md",
     "Projects/CJBS - Satellite GPT.md",
     "Projects/CJBS - Satellite GPT",
     "Acheivements/Web Secretary.md",
@@ -253,7 +254,7 @@
     "DSA/Untitled.canvas",
     "Projects/Devlog- Implementing TCP.md",
     "Projects",
-    "DSA",
+    "Studies/DSA",
     "2024-12-02.md"
   ]
 }
