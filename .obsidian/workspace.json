@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Sociology of Economic Development/L7.md",
+                "file": "Studies/Sociology of Economic Development/L8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7"
+              "title": "L8"
             }
           },
           {
@@ -221,11 +221,14 @@
   },
   "active": "29c6ee8e4769b220",
   "lastOpenFiles": [
-    "Studies/Sociology of Economic Development/L6.md",
-    "Studies/Sociology of Economic Development/L7.md",
-    "Studies/Sociology of Economic Development/L5.md",
+    "Studies/Digital Electronics/Verilog.md",
+    "Studies/Sociology of Economic Development/L8.md",
+    "Studies/Digital Electronics",
     "Studies/Sociology of Economic Development/L4.md",
     "Studies/Sociology of Economic Development/L3.md",
+    "Studies/Sociology of Economic Development/L7.md",
+    "Studies/Sociology of Economic Development/L6.md",
+    "Studies/Sociology of Economic Development/L5.md",
     "Studies/DSA/Bit Manipulation.md",
     "Studies/DSA/Backtracking.md",
     "Studies/DSA/Binary Search.md",
@@ -254,7 +257,6 @@
     "DSA/Untitled.canvas",
     "Projects/Devlog- Implementing TCP.md",
     "Projects",
-    "Studies/DSA",
     "2024-12-02.md"
   ]
 }
