@@ -68,8 +68,9 @@ int main() {
 
 ## Algorithms
 
-### 1. [[DFS]]
-
+1. [[DFS]]
+2. [[Connected Components]]
+3. [[Find Loops]]
 
 
 
