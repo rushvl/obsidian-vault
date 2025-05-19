@@ -10,7 +10,7 @@
 |           | (Maybe cook something?) |
 | Evening   | Snacks                  |
 |           | Gaming                  |
-|           | Dancing                 |
+|           | Dancing, Drawing(anime) |
 | Night     | Go Down                 |
 |           | Meditate                |
 |           | Sleep                   |
