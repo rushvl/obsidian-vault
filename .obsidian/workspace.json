@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Sociology of Economic Development/L12.md",
+                "file": "Studies/Sociology of Economic Development/L10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L12"
+              "title": "L10"
             }
           }
         ],
@@ -221,10 +221,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1a13503ff26e8528",
+  "active": "6f037049dc2711cc",
   "lastOpenFiles": [
-    "Studies/Sociology of Economic Development/L10.md",
     "Studies/Sociology of Economic Development/L12.md",
+    "Studies/Sociology of Economic Development/L10.md",
     "Studies/DSA/Algorithms/Find Loops.md",
     "Studies/DSA/Algorithms/Binary Search.md",
     "Studies/DSA/Structures/Graphs.md",
