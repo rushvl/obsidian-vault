@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f66627961fa54a5",
+        "id": "4c6076f607d6f5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8f065ddad55211",
+            "id": "f16b7cd95ba86eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ca8f065ddad55211",
+  "active": "f16b7cd95ba86eeb",
   "lastOpenFiles": [
-    "Projects/Freecharge Data Engineering Log.md",
     "TODO.md",
+    "Projects/Freecharge Data Engineering Log.md",
     "Schedule.md",
     "Studies/DSA/Algorithms/DFS for a grid.md",
     "Studies/DSA/Structures/Trees.md",
