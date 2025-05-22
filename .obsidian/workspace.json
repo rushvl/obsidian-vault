@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Freecharge Data Engineering Log.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freecharge Data Engineering Log"
+              "title": "TODO"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "ca8f065ddad55211",
   "lastOpenFiles": [
-    "TODO.md",
     "Projects/Freecharge Data Engineering Log.md",
+    "TODO.md",
     "Schedule.md",
     "Studies/DSA/Algorithms/DFS for a grid.md",
     "Studies/DSA/Structures/Trees.md",

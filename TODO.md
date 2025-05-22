@@ -15,4 +15,8 @@ dag uat
 
 ## reinstall windows
 1. backup rainmeter
-2. 
+2. install msedgeredirect
+3. winaerotweaker
+4. localsend
+5. voicemeeter
+6. 
