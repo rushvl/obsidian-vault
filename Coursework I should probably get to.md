@@ -17,4 +17,3 @@ Sample resume - https://drive.google.com/file/d/1DAwKIOXheP9XexIaz2DDekbPGZwCst-
 Topic List - https://youkn0wwho.academy/topic-list
 
 Interview Prep - https://www.hellointerview.com/learn/ , go throught the core concepts part
- 

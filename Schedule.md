@@ -1,7 +1,7 @@
 
 | Time      | Activity                |
 | --------- | ----------------------- |
-| Morning   | Yoga                    |
+| Morning   | Gym                     |
 |           | Breakfast               |
 |           | DSA                     |
 |           | Guitar                  |
