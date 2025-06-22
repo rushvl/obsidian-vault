@@ -22,6 +22,7 @@ int main() {
 	maxD = -1;
 	dfs(1,0); //goes to one extrema of diameter
 
+	for(int i = 0; i<n; i++) vis[i] = 0;
 	maxD = -1;
 	dfs(maxNode,0); //one extrema to other
 }
