@@ -65,7 +65,7 @@ int main() {
 
  1. [[DFS]]
  2. [[Connected Components]]
- 3. [[Find Loops]]
+ 3. [[Find Cycle in Graph,Tree]]
  4. 
 
 

@@ -9,7 +9,7 @@ Leaf Node: Nodes with no child.
 Depth of a node: Distance of node from root.
 Height: Distance of furthest leaf(child) from node.
 Lowest Common Ancestor(LCA): The first common parent of two nodes going up.
-
+Diameter: Longest path between any two nodes in a tree.
 ## Code Representation
 
 ### Adjacency Matrix
@@ -22,6 +22,7 @@ A[i][j]=
 0 &i=j,\ or\ otherwise
 \end{cases}
 $$
+
 
 `a[i][j] = wt`, for weighted graph
 
@@ -70,9 +71,9 @@ int main() {
 
 1. [[DFS]]
 2. [[Connected Components]]
-3. [[Find Loops]]
+3. [[Find Cycle in Graph,Tree]]
 4. [[DFS for a grid]]
-5. 
+5. [[Diameter of a tree]]
 
 
 
