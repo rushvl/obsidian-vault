@@ -74,6 +74,9 @@ int main() {
 3. [[Find Cycle in Graph,Tree]]
 4. [[DFS for a grid]]
 5. [[Diameter of a tree]]
+6. [[SSSP DFS]]
+7. [[Size of subtree]]
+8. [[SSSP BFS]]
 
 
 

@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=9goVqAvYEbI&list=PL5DyztRVgtRVLwNWS7Rpp4qzVVHJalt22&index=15
 Longest path that exists in a tree
-Using [[SSSP]]
+Using [[SSSP DFS]]
 
 ```cpp
 vi ar[10001];
