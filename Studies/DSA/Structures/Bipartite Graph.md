@@ -1,4 +1,4 @@
-A [[Graphs]] is **bipartite** if the nodes can be partitioned into two independent sets `A` and `B` such that **every** edge in the graph connects a node in set `A` and a node in set `B`.
+A [[Graph]] is **bipartite** if the nodes can be partitioned into two independent sets `A` and `B` such that **every** edge in the graph connects a node in set `A` and a node in set `B`.
 
 Test for Bipartite Graph:
 

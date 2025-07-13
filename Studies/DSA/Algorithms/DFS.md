@@ -1,7 +1,7 @@
-Algorithm for [[Trees]],[[Graphs]]
+Algorithm for [[Tree]],[[Graph]]
 Start with the root -> go to any child -> go full depth of that child
-We keep a **visited** array, which stores the visited nodes. This can be avoided for [[Trees]], needed for [[Graphs]].
-[[Graphs#Adjacency List]]
+We keep a **visited** array, which stores the visited nodes. This can be avoided for [[Tree]], needed for [[Graph]].
+[[Graph#Adjacency List]]
 
 
 ```cpp

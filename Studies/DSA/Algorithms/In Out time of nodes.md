@@ -1,6 +1,6 @@
 Used for  problems, where given 2 nodes, find whether one node lies in the subtree of another node or not
 https://www.youtube.com/watch?v=4VCqVBnUrDY
-[[Trees]] algorithm
+[[Tree]] algorithm
 
 ```cpp
 int timer = 1;

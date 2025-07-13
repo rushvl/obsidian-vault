@@ -1,6 +1,6 @@
 Single source shortest path
 Gives the shortest distance of every other node from the source node
-Algorithm only for [[Trees]]
+Algorithm only for [[Tree]]
 Uses [[DFS]]
 https://www.youtube.com/watch?v=HCSTku0-Eqg
 
