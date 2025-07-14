@@ -1,0 +1,6 @@
+- Sift 1 full teaspoon (about 3g) of Matcha Powder into a bowl
+- Add 60ml (¼ cup) of hot water (non-boiling water preferred, about 70°C)
+- Whisk the Matcha with a Matcha Whisk until a layer of froth appears
+- **Optional:** Add 2 full teaspoons of sugar (or any other sweetener of choice) into the Matcha and mix well
+- Pour in 60ml of your favourite milk (use 40ml of milk for a less milky version) in a cup
+- Add the whisked Matcha slowly into the cup for a lovely gradient (*For iced Matcha latte, fill the cup with ¾ ice)
