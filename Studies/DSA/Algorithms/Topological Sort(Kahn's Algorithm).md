@@ -1,4 +1,4 @@
-Directed Graphs/Trees
+Directed [[Graph]]/[[Tree]]
 Graph traversal in which node v is visited only after all its dependencies are visited.
 
 ```cpp

@@ -61,7 +61,7 @@ int main() {
 ```
 
 ## DFS Tree
-
+https://codeforces.com/blog/entry/68138
 Forward edges: The edges that get traversed by recursive dfs calls.
 Back edges: The edges that do not get traversed by recursive dfs calls. (happens with cycles)
 
@@ -75,4 +75,5 @@ A backedge connnects a descendent to its ancestor, which is not its direct paren
  5. [[SSSP BFS]]
  6. [[Bridge]]
  7. [[Topological Sort(Kahn's Algorithm)]]
+ 8. [[Articulation Points]]
 

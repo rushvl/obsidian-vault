@@ -1,4 +1,4 @@
-Directed Graphs
+Directed [[Graph]]
 Uses stack
 
 ```cpp

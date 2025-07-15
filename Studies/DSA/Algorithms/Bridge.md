@@ -45,3 +45,17 @@ int main() {
 	dfs(1,-1)
 }
 ```
+
+### Lowtime meaning:
+
+Imagine a building with rooms connected by hallways:
+
+- Each **room** is a node in the graph.
+- You enter rooms in a certain order during your exploration (DFS). The order you enter a room is its **discovery time (`tin`)**.
+- Initially, when you enter a room vv, the earliest room you can reach from vv is just vv itself (you’re inside it).
+- This is why **`low[v] = tin[v]`** at the start: you only know about the current room.
+- As you explore hallways (edges) to other rooms:
+    - If you find a **shortcut (back edge)** to an earlier room (an ancestor), you update your earliest reachable room to that earlier room.
+    - If your friends in the rooms you visit can reach an earlier room, you update your earliest reachable room accordingly.
+
+You look at the intime of the earliest node the current node can visit, via a different path than the one that connects it with its parent.
