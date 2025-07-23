@@ -72,14 +72,12 @@ int main() {
 1. [[DFS]]
 2. [[Connected Components]]
 3. [[Cycle in Graph,Tree]]
-4. [[DFS for a grid]]
-5. [[Diameter of a tree]]
-6. [[In Out time of nodes]]
-7. [[SSSP DFS]]
-8. [[Size of subtree]]
-9. [[SSSP BFS]]
-10. [[Topological Sort(Kahn's Algorithm)]]
-11. 
+4. [[Diameter of a tree]]
+5. [[In Out time of nodes]]
+6. [[Single Source Shortest Path]]
+7. [[Size of subtree]]
+8. [[Single Source Shortest Path]]
+9. [[Topological Sort]] 
 
 
 

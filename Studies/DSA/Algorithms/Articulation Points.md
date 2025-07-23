@@ -27,8 +27,8 @@ void dfs(int v, int p = -1) {
     tin[v] = low[v] = timer++;
     int children=0;
     for (int to : adj[v]) {
-        if (to == p) continue;
-        if (visited[to]) {
+        if (to == p) continue; //if child is parent
+        if (visited[to]) { //if back edge found 
             low[v] = min(low[v], tin[to]);
         } else {
             dfs(to, v);

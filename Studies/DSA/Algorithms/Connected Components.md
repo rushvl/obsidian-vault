@@ -37,3 +37,18 @@ int main() {
 	}
 }
 ```
+
+## Grid
+
+```cpp
+int cnt = 0;
+for(int i=1;i<=N;i++) {
+	for(int j=1;j<=M;j++) {
+		if(ar[i][j]==1 && vis[i][j]==false) {
+			cnt++;
+			dfs(i,j);
+		}
+	}
+
+}
+```

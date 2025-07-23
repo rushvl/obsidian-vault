@@ -72,7 +72,7 @@ A backedge connnects a descendent to its ancestor, which is not its direct paren
  2. [[Connected Components]]
  3. [[Cycle in Graph,Tree]]
  4. [[In Out time of nodes]]
- 5. [[SSSP BFS]]
+ 5. [[Single Source Shortest Path]]
  6. [[Bridge]]
  7. [[Topological Sort(Kahn's Algorithm)]]
  8. [[Articulation Points]]
