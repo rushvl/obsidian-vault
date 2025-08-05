@@ -10,3 +10,4 @@
 ### Tips
 - Don’t stir the mix too much, otherwise it’ll become gooey due to wheat flour
 - Put a little butter on pan and pour batter on it
+- Add milk dheere dheere to prevent clumping
