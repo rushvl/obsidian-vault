@@ -1,3 +1,10 @@
+---
+id: Pancakes
+aliases: []
+tags: []
+---
+
+# Pancakes
 
 | Ingredients          | Quantity    | Comments           |
 | -------------------- | ----------- | ------------------ |
@@ -7,6 +14,8 @@
 | Milk                 | 1 glass     |                    |
 | Sugar                | 2 spoons    | Put it in the milk |
 | Vegetable oil/Butter | 1 spoon oil | For softness       |
-### Tips
+
+## Tips
+
 - Don’t stir the mix too much, otherwise it’ll become gooey due to wheat flour
 - Put a little butter on pan and pour batter on it

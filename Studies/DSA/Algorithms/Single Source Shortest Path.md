@@ -91,3 +91,19 @@ int main(){
  	}
 }
 ```
+
+
+## [[Dijkstra]]
+
+## Bellman-Ford
+
+Used for negative weight cycles.
+**Negative Weight Cycle**: Net weight of cycle is negative.
+
+Its all about **Friendly neighbourhood edges**
+We store the edges in an edge list, because we  travel them one by one.
+ 
+
+
+
+
