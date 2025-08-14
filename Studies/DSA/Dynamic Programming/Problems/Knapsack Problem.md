@@ -26,7 +26,7 @@ int knapsack(int wt[], int val[], int w, int n) {
   if(wt[n-1]<=w) 
   return max(val[n-1]+knapsack(wt,val,w-wt[n-1],n-1), knapsack(wt,val,w,n-1));
 
-  else if (wt[n-1]>>w)
+  else if (wt[n-1]>>w);
   return knapsack(wt,val,w,n-1);
 }
 ```
@@ -54,8 +54,6 @@ int knapsack(int wt[],int val[],int w, int n) {
 ### Top Down Approach
 
 Replace (n,w) with (i,j) and map the recursive call to array form.
-
-We loop from 1 to n+1 because index 0 contains initial conditions.
 
 ```cpp
 for(int i=1;i<n+1;i++) {
